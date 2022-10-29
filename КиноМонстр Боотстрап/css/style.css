@@ -160,3 +160,11 @@ footer a {
 footer a:hover {
     color: #efefef;
 }
+
+@media (max-width: 575px) {
+    .film_label {
+        padding: 1px 0 5px 0;
+        margin-bottom: 8%;
+        font-size: 12px;
+    }
+}
